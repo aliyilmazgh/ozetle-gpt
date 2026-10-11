@@ -118,7 +118,6 @@ Proje, eğitim ve araştırma amaçlı videoları hızlıca anlamayı kolaylaşt
 ## 🔗 Canlı Bağlantılar ve Depolar
 
 - GitHub Reposu: [https://github.com/aliyilmazgh/ozetle-gpt)  
-- (İsteğe bağlı) GitHub Pages canlı demo: `https://alibolton.github.io/ozetle-gpt`
 
 ---
 
