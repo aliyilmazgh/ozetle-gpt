@@ -1,6 +1,5 @@
 # 🎯 Proje Adı: ÖzetleGPT
 
-**Yapan Kişi:** Ali  
 **Takım İsmi:** ZeroToHero  
 **Roller:** Product Owner, Scrum Master, Developer (solo çalışıldı)
 
@@ -118,7 +117,7 @@ Proje, eğitim ve araştırma amaçlı videoları hızlıca anlamayı kolaylaşt
 
 ## 🔗 Canlı Bağlantılar ve Depolar
 
-- GitHub Reposu: [https://github.com/alibolton/ozetle-gpt](https://github.com/alibolton/ozetle-gpt)  
+- GitHub Reposu: [https://github.com/aliyilmazgh/ozetle-gpt)  
 - (İsteğe bağlı) GitHub Pages canlı demo: `https://alibolton.github.io/ozetle-gpt`
 
 ---
